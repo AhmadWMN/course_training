@@ -1,8 +1,9 @@
-# course_training
+# course_training (Front-end)
 these are mini project I made them using html and css within full-stack developer course ....
 
-# please ,be aware to use this points : 
+# what I learned: 
 
 1- Make Front-end using html and css
-2- Using css , and sometimes bootstrape 
+2- Using css , and sometimes bootstrape .
+3- when it is suitable to use css , or bootstrape ...and so on .
 
